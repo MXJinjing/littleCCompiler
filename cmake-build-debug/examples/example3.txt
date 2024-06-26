@@ -1,0 +1,19 @@
+{
+    int a,b;
+    char happy, new ,year;
+    b = -10;
+    a = 9;
+    happy = '0';    /* happy */
+    new = 'a';
+    year = 'A';
+    if( a >= 0){
+        while( b < 0){
+            b = b + 1;
+            if ( b / 2 == 0){
+                a = 3 * 2 * a + b; // add b to a
+            }
+        }
+        return a;
+    }
+    return /* !!comment!! */-111;
+}

@@ -1,0 +1,14 @@
+# ninja log v5
+2	54	1719363711414249600	CMakeFiles/littleCC.dir/translator.c.o	86ab5ce8ad4d074c
+1	33	1719363711393684200	CMakeFiles/littleCC.dir/graph_utils.c.o	d12dec77a59c55fd
+1	26	1719363713654077200	build.ninja	3830a3afd3152584
+266	524	7410438419612385	littleCC.exe	6769ec7f746aaf9
+1	38	1719363711398776700	CMakeFiles/littleCC.dir/lexer.c.o	affa02e1e4a97eeb
+1	30	1719363711390354200	CMakeFiles/littleCC.dir/tree.c.o	da82cc3306639e5
+54	78	1719363711438467700	littleCC	3b55feaea1634fa
+2	31	1719363711390457300	CMakeFiles/littleCC.dir/main.c.o	a5ec6f039d2c95e6
+2	33	1719363711394129100	CMakeFiles/littleCC.dir/quad_utils.c.o	600b4b2e9aff0ae9
+2	33	1719363711393694700	CMakeFiles/littleCC.dir/prepare.c.o	a76633a36c374fed
+2	46	1719363711407113700	CMakeFiles/littleCC.dir/parser.c.o	4f7184e9a3432230
+1	104	1719408695022050800	CMakeFiles/littleCC.dir/lexer.c.o	affa02e1e4a97eeb
+105	138	1719408695056526700	littleCC	3b55feaea1634fa
